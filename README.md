@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## 📊 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Daavud?theme=dark&font=syne" alt="LeetCode Stats" />
 </div>
