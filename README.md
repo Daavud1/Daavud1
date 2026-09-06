@@ -10,7 +10,7 @@
 
 ### ▾ About me
 
-- 🔭 I’m currently studying **Data Science in Business** at Corvinus University of Budapest, building skills in database systems, analytics, and business economics.
+- 🔭 I’m currently studying **Data Science in Business** at Corvinus University of Budapest.
 
 - 💻 All of my projects are available at [GitHub](https://github.com/Daavud1)
 
