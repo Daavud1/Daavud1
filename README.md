@@ -1,19 +1,24 @@
-## Hi there 👋
+## Hi👋 I am Daavud
 
-<!--
-**Daavud1/Daavud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 I'm Daavud</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Data Science in Business Student 📊 | Aspiring Data Engineer & Analyst 💻</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daavud1&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
+
+### ▾ About me
+
+- 🔭 I’m currently studying **Data Science in Business** at Corvinus University of Budapest, building skills in database systems, analytics, and business economics.
+
+- 💻 All of my projects are available at [GitHub](https://github.com/Daavud1)
+
+- 📫 How to reach me: [soorbekovdaavud@gmail.com](mailto:soorbekovdaavud@gmail.com)
+
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/daavudsoorbekov)
+
+- ⚡ Fun facts about me: I play soccer ⚽, and love reading 📚
 
 ## 📊 LeetCode Stats
 <div align="center">
