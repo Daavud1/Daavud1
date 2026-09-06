@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Daavud?theme=dark&font=syne&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Daavud?theme=dark&font=syne" alt="LeetCode Stats" />
 </div>
