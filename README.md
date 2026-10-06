@@ -1,4 +1,4 @@
-## Hi👋 I am Daavud
+## Hi👋
 
 <h1 align="center">Hi 👋 I'm Daavud</h1>
 
