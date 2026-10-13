@@ -33,10 +33,11 @@ I'm studying **Data Science in Business at Corvinus University of Budapest** and
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Python, SQL, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, SQL, Git, GitHub and VS Code" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-learning-00618A?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/Pandas-learning-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Statistics-building%20skills-2ea043?style=flat-square" alt="Statistics" />
   <img src="https://img.shields.io/badge/Data%20Visualization-in%20progress-2563eb?style=flat-square" alt="Data visualization" />
