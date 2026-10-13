@@ -26,10 +26,9 @@
 I'm studying **Data Science in Business at Corvinus University of Budapest** and building practical skills in data analysis, statistics, and programming.
 
 - 📊 Interested in using data to answer real-world questions.
-- 🧰 Currently building with **Python, Pandas, SQL, and statistics**.
+- 🧰 Currently building with **Python, Pandas, SQL, and Statistics**.
 - 🌱 Improving my data cleaning, visualization, and analytical problem-solving skills.
-- 🎯 Working toward a data analytics / data science internship.
-- ⚽ Outside of tech, I enjoy soccer and reading.
+- ⚽ Outside of tech, I enjoy soccer and playing Counter Strike 2.
 
 ## Toolkit
 
