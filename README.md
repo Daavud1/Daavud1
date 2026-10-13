@@ -33,17 +33,18 @@ I'm studying **Data Science in Business at Corvinus University of Budapest** and
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, SQL, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, Git, GitHub and VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/sap/0FA6E9" alt="SAP" width="42" height="42" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-learning-00618A?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-learning-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Statistics-building%20skills-2ea043?style=flat-square" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-in%20progress-2563eb?style=flat-square" alt="Data visualization" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-00618A?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Statistics-2ea043?style=flat-square" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-2563eb?style=flat-square" alt="Data visualization" />
+  <img src="https://img.shields.io/badge/SAP%20Application-0FA6E9?style=flat-square&logo=sap&logoColor=white" alt="SAP Application" />
 </p>
-
-> I list tools I am actively learning or using. This section will grow as I build and publish projects.
 
 ## Featured projects
 
@@ -59,7 +60,7 @@ I'm building my project portfolio. I'll feature projects here as they become rea
     </td>
     <td width="50%" valign="top">
       <h3>📈 Data Analysis Projects</h3>
-      <p>In progress · Python · SQL</p>
+      <p>Python · SQL</p>
       <p>Practical analysis projects focused on cleaning data, answering questions, and communicating evidence-based insights.</p>
       <p><em>Project links will be added when published.</em></p>
     </td>
