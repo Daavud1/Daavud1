@@ -48,15 +48,13 @@ I'm studying **Data Science in Business at Corvinus University of Budapest** and
 
 ## Featured projects
 
-I'm building my project portfolio. I'll feature projects here as they become ready.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 CS2 Match Analysis</h3>
-      <p>Planned project · Python · Pandas · Statistics</p>
-      <p>Explore Counter-Strike 2 match data, investigate patterns related to winning, and communicate findings with clear visualizations.</p>
-      <p><em>Coming as the analysis develops.</em></p>
+      <h3>🗳️ Hungary Election Data Analysis</h3>
+      <p>Python · Jupyter · Data Cleaning · GitHub Pages</p>
+      <p>A reproducible analysis of official Hungarian parliamentary-election results from 1990–2026, covering turnout, party-list support, county-level shifts, and constituency competitiveness.</p>
+      <p><a href="https://github.com/Daavud1/hungary-election-data-analysis">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📈 Data Analysis Projects</h3>
@@ -67,12 +65,24 @@ I'm building my project portfolio. I'll feature projects here as they become rea
   </tr>
 </table>
 
+## LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Daavud/">
+    <img src="https://leetcard.jacoblin.cool/Daavud?theme=dark&font=Abel&ext=heatmap" alt="Daavud's LeetCode statistics" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Live statistics from my <a href="https://leetcode.com/u/Daavud/">LeetCode profile</a>.</sub>
+</p>
+
 ## Learning & practice
 
 - **Kaggle:** building skills in Python, Pandas, data cleaning, and visualization.
 - **SQL:** practicing querying, filtering, joins, aggregation, and analytical problems.
 - **Statistics:** learning descriptive statistics and data interpretation.
-- **LeetCode:** [View my profile](https://leetcode.com/u/Daavud).
+- **LeetCode:** practicing algorithmic problem-solving and data structures.
 
 ## Connect
 
