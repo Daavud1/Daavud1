@@ -50,17 +50,11 @@ I'm studying **Data Science in Business at Corvinus University of Budapest** and
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🗳️ Hungary Election Data Analysis</h3>
       <p>Python · Jupyter · Data Cleaning · GitHub Pages</p>
       <p>A reproducible analysis of official Hungarian parliamentary-election results from 1990–2026, covering turnout, party-list support, county-level shifts, and constituency competitiveness.</p>
       <p><a href="https://github.com/Daavud1/hungary-election-data-analysis">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Data Analysis Projects</h3>
-      <p>Python · SQL</p>
-      <p>Practical analysis projects focused on cleaning data, answering questions, and communicating evidence-based insights.</p>
-      <p><em>Project links will be added when published.</em></p>
     </td>
   </tr>
 </table>
@@ -69,7 +63,7 @@ I'm studying **Data Science in Business at Corvinus University of Budapest** and
 
 <p align="center">
   <a href="https://leetcode.com/u/Daavud/">
-    <img src="https://leetcard.jacoblin.cool/Daavud?theme=dark&font=Abel&ext=heatmap" alt="Daavud's LeetCode statistics" />
+    <img src="https://leetcard.jacoblin.cool/Daavud?theme=dark&font=Abel" alt="Daavud's LeetCode statistics" />
   </a>
 </p>
 
